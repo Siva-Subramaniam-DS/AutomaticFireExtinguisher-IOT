@@ -1,4 +1,4 @@
-# AutomaticFireExtinguisher-IOT
+![IMG_20230510_135350_759 (1)](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/95ab4bd8-32f5-4bcd-993d-f7f2514254f1)# AutomaticFireExtinguisher-IOT
 
 
 -Developed a Machine Learning model for real-time fire and smoke detection
@@ -21,6 +21,10 @@ Power module         -  a voltage converter to give stable power
 Monitor              -  to display the detected images 
 Mouse and Keyboard   -  to perform necessary actions 
 
+![IMG_20230502_204545_054](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/d9c77e11-f2b8-462b-9e0c-ac8dd01dc439)
+![IMG_20230502_204653_843](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/d12af775-71e1-4fa6-892b-aa1947d298ac)
+![IMG_20230502_204727_653](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/8e9473a4-2dad-4fc6-b856-b284569f5da6)
+![IMG_20230510_135350_759](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/1134298c-0dc4-40ba-9348-a7ea978325c9)
 
 
-This project is done Mechanical Engineering Students and Project Guide.
+This project is done by Mechanical Engineering Students and Project Guide.
