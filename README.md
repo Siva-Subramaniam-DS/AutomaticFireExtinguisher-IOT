@@ -1,4 +1,4 @@
-![IMG_20230510_135350_759 (1)](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/95ab4bd8-32f5-4bcd-993d-f7f2514254f1)# AutomaticFireExtinguisher-IOT
+# AutomaticFireExtinguisher-IOT
 
 
 -Developed a Machine Learning model for real-time fire and smoke detection
