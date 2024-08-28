@@ -1,9 +1,10 @@
-# AutomaticFireExtinguisher-IOT
+# AutomaticFireExtinguisher-IOT 🔥🧯
 
 ## Table of Content 📍
 - [Project Overview](#project-overview)
 - [Components](#components)
 - [Images](#images)
+- [Acknowledgements](#acknowledgements)
 
 ## `Project Overview` 
 - Developed a Machine Learning model for real-time fire and smoke detection.
@@ -29,5 +30,5 @@
 ![IMG_20230502_204727_653](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/8e9473a4-2dad-4fc6-b856-b284569f5da6)
 ![IMG_20230510_135350_759](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/1134298c-0dc4-40ba-9348-a7ea978325c9)
 
-## Acknowledgements
+## `Acknowledgements`
 This project was completed by Mechanical Engineering students and their Project Guide.
