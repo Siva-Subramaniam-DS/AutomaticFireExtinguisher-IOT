@@ -16,13 +16,13 @@
 - Ensured the system's stability, performed regular maintenance, and validated its functionality.
 
 ## `Components`
-- **Camera** - to capture and monitor the environment.
-- **Raspberry Pi** - a microcontroller that acts as a CPU.
-- **Relay** - to act as a switch to activate/deactivate the pump.
-- **DC water pump** - to pump out water to extinguish the fire.
-- **Power module** - a voltage converter to give stable power.
-- **Monitor** - to display the detected images.
-- **Mouse and Keyboard** - to perform necessary actions.
+- **Camera** - to capture and monitor the environment. 📷
+- **Raspberry Pi** - a microcontroller that acts as a CPU. 🥧
+- **Relay** - to act as a switch to activate/deactivate the pump. 🔌
+- **DC water pump** - to pump out water to extinguish the fire. 🚰
+- **Power module** - a voltage converter to give stable power. 🔋
+- **Monitor** - to display the detected images. 💻
+- **Mouse and Keyboard** - to perform necessary actions. 🖱️
 
 ## `Images` 
 ![IMG_20230502_204545_054](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/d9c77e11-f2b8-462b-9e0c-ac8dd01dc439)
