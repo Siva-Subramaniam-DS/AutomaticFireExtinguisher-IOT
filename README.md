@@ -23,7 +23,7 @@
 - **Monitor** - to display the detected images.
 - **Mouse and Keyboard** - to perform necessary actions.
 
-## `Images` 📷
+## `Images` 
 ![IMG_20230502_204545_054](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/d9c77e11-f2b8-462b-9e0c-ac8dd01dc439)
 ![IMG_20230502_204653_843](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/d12af775-71e1-4fa6-892b-aa1947d298ac)
 ![IMG_20230502_204727_653](https://github.com/Siva-Subramaniam-DS/AutomaticFireExtinguisher-IOT/assets/138869164/8e9473a4-2dad-4fc6-b856-b284569f5da6)
