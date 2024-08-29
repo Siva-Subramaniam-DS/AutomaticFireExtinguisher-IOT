@@ -1,5 +1,3 @@
-# AutomaticFireExtinguisher-IOT 🔥🧯
-
 ## Table of Content 📍
 - [Project Overview](#project-overview)
 - [Components](#components)
