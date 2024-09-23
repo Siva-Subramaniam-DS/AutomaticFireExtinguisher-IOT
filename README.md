@@ -33,8 +33,6 @@
 ## `Acknowledgements`
 This project was completed by Mechanical Engineering students and their Project Guide.
 
-## 'Patent' 
-Patent Link: https://search.ipindia.gov.in/IPOJournal/Journal/Patent
-Part I in date 13/09/2024
-Page no: 360
+## `Patent`
+Patent Link: Visit the [Patent Journal] (https://search.ipindia.gov.in/IPOJournal/Journal/Patent) and navigate to Part I of the journal dated 13/09/2024 & Page no: 360.
 ![Screenshot 2024-09-14 143515](https://github.com/user-attachments/assets/43eb94a3-bbdc-44fa-95aa-c8fb2753f4de)
